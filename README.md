@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Saâdia Boussiar
 
-<!--
-**Saadiaboussiar/Saadiaboussiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a data engineering student with a passion for building robust and user-friendly software.  
+💡 I believe in being polyvalent — always learning, exploring, and developing across different domains.
 
-Here are some ideas to get you started:
+## 💻 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Building full-stack applications using **React** and **Spring Boot**
+- 📊 Exploring data pipelines and backend systems
+- 🔐 Learning about secure architectures and best practices with **JWT** and **Spring Security**
+
+## ✨ About Me
+
+Outside of tech, I’m a person who:
+- 📖 Loves reading novels
+- 🧶 Enjoys DIY projects and getting creative
+- 🧘‍♀️ Values life, connection, and people
+- 🍳 Loves cooking and going on picnics 🌳
+- 🚀 Always eager to experience new things and grow from them
+
+## 📫 Let's Connect!
+
+Feel free to reach out or check out what I'm working on:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sa%C3%A2dia-boussiar-960923254/?originalSubdomain=ma)
+- 📩 Email: boussiarsaadia@gmail.com
+
+---
+
+> “Stay curious, be kind, and build things that matter.” 💙
