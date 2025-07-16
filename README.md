@@ -64,7 +64,9 @@ Outside of tech, I’m a person who:
 ### 🔧 Tools & APIs
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-00BFFF?style=for-the-badge&logoColor=white"/>
+
 
 </p>
 
