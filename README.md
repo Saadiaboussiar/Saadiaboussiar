@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saâdia Boussiar
 
-🎓 2nd-year Data Engineering & AI engineering student at **ENSA Agadir** 🇲🇦  
+🎓 last-year Data Engineering & AI engineering student at **ENSA Agadir** 🇲🇦  
 💡 I build data-driven systems end to end: from raw data and pipelines to AI agents and user-friendly dashboards.  
 🔎 **Currently looking for an application internship (stage d'application).**
 
